@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173692145931",
+    "project_id": "bloc-demo-dd567",
+    "storage_bucket": "bloc-demo-dd567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173692145931:android:9ee2d7b1e1d4596aa4920e",
+        "android_client_info": {
+          "package_name": "com.example.bloc_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173692145931-t9242182qe38oui4ghchsamsd3fs3u7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJejfefx9b8MU3jl5SVbvx0unZnxQsctY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173692145931-t9242182qe38oui4ghchsamsd3fs3u7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
